@@ -1,4 +1,4 @@
 # Gerador-de-senha-
 Gerador de até 25 senhas aleatórias utilizando Java script.
 #
-![image](https://user-images.githubusercontent.com/106766918/180223742-c2beed6a-f92c-41fc-90de-69a17e4ac0db.png)
+![image](https://user-images.githubusercontent.com/106766918/180223893-1f0f54d8-0311-4b6d-8ba8-fbf9a9be2cb6.png)
